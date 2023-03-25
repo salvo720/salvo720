@@ -11,8 +11,6 @@ Ciao sono Salvo 👋 , sono uno sviluppatore software fullstack  di catania,Ital
     <a href="https://stackoverflow.com/users/16415933/salvo720" target="blank"><img  src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/stack-overflow.svg" alt="salvo720" height="30" width="40" /></a>
     </p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/salvatore-celano-1514ab1a1/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/16415933/salvo720) 
-
 # linguaggi e tool :
 <img src="https://skillicons.dev/icons?i=html" />
 <img src="https://skillicons.dev/icons?i=css,bootstrap" />
