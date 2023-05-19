@@ -3,8 +3,6 @@
 # README.md
 
 # 💫 About Me:
-alias github : https://github.com/salvoenn .
-
 Ciao sono Salvo 👋 , sono uno sviluppatore software fullstack  di catania,Italia<br>
 
 ## 🌐 Socials:
