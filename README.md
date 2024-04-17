@@ -27,5 +27,5 @@ Ciao sono Salvo 👋 , sono uno sviluppatore software fullstack  di catania,Ital
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=salvo720&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-# alias github <br>
+#Alias github <br>
 salvo920 link:( https://github.com/salvo920 )
